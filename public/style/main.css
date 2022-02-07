@@ -1,0 +1,107 @@
+body{
+    background: #FFF !important;
+}
+.navbar{
+    background-color: #BFE6FC !important;
+}
+.photo-active img{
+    height: auto;
+    width: 100%;
+}
+.option-photo img{
+    width: 60px;
+    height: 60px;
+}
+
+.bintang {
+    width: 30px;
+    height: 30px;
+}
+
+.lokasi-lapak , .jastip{
+    border-right: 1px solid;
+}
+.dropright{
+    width: 100%;
+    height: 80px;
+}
+.hari{
+    text-align: right;
+    margin-left: 10px;
+}
+
+.info-produk, .spek-barang, .info-lapak, .info-ulasan{
+    background-color: #F2F2FB;
+}
+
+hr.unline-produk{
+    margin: 0;
+    background: #41FFF9;
+}
+.unline-produk{
+    width: 80px !important;
+    height: 2px;
+}
+.info-baru{
+    background-color: #A2B9EF;
+    width: 68px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.poto-profil img{
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+.tag{
+    float: left;
+    margin: 2px;
+}
+
+.tag-tt{
+    background-color: #EEFFEF;
+    border: 1px solid #9DFE9A;
+    border-radius: 5px;
+    width: 100px;
+    height: 20px;
+}
+
+.tag-ss{
+    background-color: #FFEEEE;
+    border: 1px solid #FE9A9A;
+    border-radius: 5px;
+    width: 100px;
+    height: 20px;
+}
+.info-kepuasan{
+    background-color: #FFFFFF;
+    border: 1px solid;
+    border-radius: 15px;
+}
+
+.kepuasan{
+    border: 1px solid green;
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+}
+.photo-ulasan img{
+    height: 160px;
+}
+
+.btn-semua{
+    background: #41FFF9;
+}
+
+.avatar{
+    width: 25px;
+    height: auto; 
+}
+
+.carousel-item img{
+    height: 300px;
+}
+.cart-halo{
+    border: 1px solid;
+}

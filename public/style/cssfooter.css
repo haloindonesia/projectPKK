@@ -1,0 +1,25 @@
+hr.underline{
+    margin: 0;
+    background: #41FFF9;
+}
+.underline.footer{
+    width: 80px !important;
+    height: 2px;
+}
+.title-footer, li p {
+    color: #FFFFFF;
+}
+.footer-link{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.footer{
+    background-color: #6273C9;
+}
+
+.see-more{
+width: 168px;
+height: 44px;
+background: linear-gradient(#f9f9f9 0%, #c3fbfa 25.77%, #74fffb 100%);
+}
